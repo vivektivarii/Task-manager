@@ -2,6 +2,13 @@
 
 A modern, responsive task management application built with React and Tailwind CSS. This application helps users organize their tasks with features like priority setting, searching, sorting, and local storage persistence.
 
+
+![Screenshot 2024-11-13 215053](https://github.com/user-attachments/assets/8e6336ad-7d0f-4657-bc6a-658d5c610d2f)
+
+![Screenshot 2024-11-13 215308](https://github.com/user-attachments/assets/e416edfb-3a3d-49ad-a6cf-36eb99b03ec2)
+
+
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -46,6 +53,10 @@ A modern, responsive task management application built with React and Tailwind C
 5. Open your browser and visit:
  
   http://localhost:5173
+
+6. Files are in src folder
+    with main app.jsx
+    which have resuable components in components folder
 
 
 ## 🎯 Usage
