@@ -58,7 +58,7 @@ function App() {
           return priorityOrder[b.priority] - priorityOrder[a.priority];
         case 'title':
           return a.title.localeCompare(b.title);
-        default: // 'date'
+        default: 
           return b.id - a.id;
       }
     });
