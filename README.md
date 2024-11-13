@@ -2,10 +2,22 @@
 
 A modern, responsive task management application built with React and Tailwind CSS. This application helps users organize their tasks with features like priority setting, searching, sorting, and local storage persistence.
 
+1. Adding the Task
 
 ![Screenshot 2024-11-13 215053](https://github.com/user-attachments/assets/8e6336ad-7d0f-4657-bc6a-658d5c610d2f)
 
+2. Tick mark the task
+
 ![Screenshot 2024-11-13 215308](https://github.com/user-attachments/assets/e416edfb-3a3d-49ad-a6cf-36eb99b03ec2)
+
+3.Search Task in Search bar
+
+![Screenshot 2024-11-13 221010](https://github.com/user-attachments/assets/973f19e7-9a5b-4118-8873-6fd83c0a798a)
+
+4.Sorting the task by prority
+
+![Screenshot 2024-11-13 220953](https://github.com/user-attachments/assets/26840157-f733-4eeb-ae5e-30561aee30bc)
+
 
 
 
