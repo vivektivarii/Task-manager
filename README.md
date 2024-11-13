@@ -6,7 +6,7 @@ A modern, responsive task management application built with React and Tailwind C
 
 ![Screenshot 2024-11-13 215053](https://github.com/user-attachments/assets/8e6336ad-7d0f-4657-bc6a-658d5c610d2f)
 
-2. Tick mark the task
+2. Tick marking the task
 
 ![Screenshot 2024-11-13 215308](https://github.com/user-attachments/assets/e416edfb-3a3d-49ad-a6cf-36eb99b03ec2)
 
